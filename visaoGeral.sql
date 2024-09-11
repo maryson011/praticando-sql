@@ -1,0 +1,14 @@
+-- SQL - linguagem declarativa e de alto nível para consultar e manipular dados em banco de dados relacionais
+-- SQL - linguagem declarativa, ou seja, especificamos o que quer mas não declaramos como será feito
+-- SQL - selecione nome e salário na tabela funcionario -> select nome, salario from funcionario
+-- SQL - DATA DEFINITION LANGUAGE, DATA MANIPULATION LANGUAGE, DATA QUERY LANGUAGE, DATA CONTROL LANGUAGE
+-- SQL - DATA DEFINITION LANGUAGE (DDL): lidar com a estrutura das tableas
+--                                CREATE TABLE: criar uma tabela, 
+--                                ALTER TABLE: alterar uma tabela, 
+--                                DROP TABLE: deletar uma tabela
+-- SQL - DATA MANIPULATION LANGUAGE (DML): lidar com o dados em si.
+--                                INSERT INTO: inserir dados na tabela, 
+--                                UPDATE: atualizar dados na tabela, 
+--                                DELETE: deletar dados na tabela
+-- SQL - DATA QUERY LANGUAGE (DQL): SELECT: selecionar um tabela.
+-- SQL - DATA CONTROL LANGUAGE (DCL): é mais utilizada com gerenciamento de banco de dados como acesso e permições: GRANT, REVOKE
