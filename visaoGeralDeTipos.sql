@@ -1,0 +1,22 @@
+-- tipos Numericos
+-- tipos Textual
+-- tipos Data e Tempo
+-- Json, espacial, binário...
+
+-- tipos númericos:
+-- Inteiro (exato): TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT
+-- Ponto Fixo (exato): DECIMAL, NUMERIC 
+-- Ponto Flutuante (Aproximado): FLOAT, DOUBLE
+-- Valor Bit (0 ou 1): BIT
+-- Date: 2021-12-24
+-- Time: 23:12:45
+-- DateTime/TimeStamp: 2021-12-24 23:12:45
+-- Year: 2021
+-- CHAR/VARCHAR
+-- BINARY/VARBINARY
+-- BLOB/TEXT
+-- ENUM
+-- SET
+-- JSON
+-- SPATIAL: REPRESENTAR FORMAS GEOMETRICAS
+
