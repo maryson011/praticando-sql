@@ -13,6 +13,6 @@ CREATE TABLE IF NOT EXISTS aluno5(
 );
 
 INSERT INTO aluno5
-VALUES ('123456789B', 'Jão', 'boa recomendação', 1, 50, 8.0, '2010-02-18', '2015-05-12', '574:45:43', 1, 'manhã');
+VALUES ('123456789C', 'Jão', 'boa recomendação', 1, 50, 8.0, '2010-02-18', '2015-05-12', '574:45:43', 1, 'tarde');
 
 SELECT * FROM aluno5;
